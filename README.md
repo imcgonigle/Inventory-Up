@@ -1,6 +1,10 @@
 # Inventory Up
 Inventory up is a web application that makes it easy to manage collections of items from anywhere that has an internet connection.
 
+## Technologies
+- Angular
+- Clarity
+
 # Getting up and running
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
